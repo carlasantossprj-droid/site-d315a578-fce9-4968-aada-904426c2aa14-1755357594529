@@ -1,0 +1,13 @@
+{
+  "name": "site-d315a578-fce9-4968-aada-904426c2aa14-1755357594529",
+  "version": "1.0.0",
+  "description": "Site caralhoooo123",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
